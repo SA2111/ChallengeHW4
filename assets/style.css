@@ -10,7 +10,21 @@ input[type="text"]{
   backround: powderblue;
   font-family: "Fantasy";
   font-size: 20px;
+}
 .input{
   text-align: center;
   margin: 100px 0;
 }
+/* button setup */
+input[type="enter"]{
+  height: 45px;
+  width: 580px;
+  backround: powderblue;
+  font-family: "Fantasy";
+  font-size: 20px;
+/*   screen */
+.project{
+  text-allign: center;
+  
+}
+
